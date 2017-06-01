@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/KHKR/Downloads/MapsUI/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e964303a26965188cc34e2fae498ea741a1df44d">
+        <dex dex="/Users/KHKR/Downloads/MapsUI/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_12c22c093c4bff07dbaacf0e89da0ac10c9d9882/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/KHKR/Downloads/MapsUI/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/KHKR/Downloads/MapsUI/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_562d28fef424090694f1f3ac0616e679853f2b78/classes.dex" />
+    </item>
+
+</items>
